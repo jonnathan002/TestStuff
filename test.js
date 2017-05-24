@@ -13,5 +13,4 @@ hanieliColumnas.addColumns();
 
 
 //cambio para branch jonnathan test
-// me cagan todos
 //cambios de verdad
